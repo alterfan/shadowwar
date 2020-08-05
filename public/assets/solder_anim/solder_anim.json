@@ -1,0 +1,95 @@
+{
+	"textures": [
+		{
+			"image": "solder_anim/solder_anim-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 210,
+				"h": 154
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "solder_anim/solder_anim-0.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 212,
+						"h": 164
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 210,
+						"h": 154
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "solder_anim/solder_anim-1.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 212,
+						"h": 164
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 210,
+						"h": 154
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				},
+				{
+					"filename": "solder_anim/solder_anim-2.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 212,
+						"h": 164
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 0,
+						"w": 210,
+						"h": 154
+					},
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 210,
+						"h": 154
+					},
+					"anchor": {
+						"x": 0.5,
+						"y": 0.5
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8f0b7a04a102fe08f534d28dd93c143c:1cfd137f9e4b00e31a15c1ed0654022c:ef00c018fcf636134fa668a130e817de$"
+	}
+}

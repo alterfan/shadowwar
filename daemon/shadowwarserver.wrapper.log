@@ -1,0 +1,4 @@
+2020-08-05 07:21:22 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\alter\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\alter\www\shadowwar\Nodemon.js --scriptoptions= --log "ShadowWar Server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-08-05 07:21:22 - Started 2968
+2020-08-05 07:24:14 - Starting C:\Program Files\nodejs\node.exe  --harmony C:\Users\alter\AppData\Roaming\npm\node_modules\node-windows\lib\wrapper.js --file C:\Users\alter\www\shadowwar\Nodemon.js --scriptoptions= --log "ShadowWar Server wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2020-08-05 07:24:14 - Started 5008

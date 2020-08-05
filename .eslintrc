@@ -1,0 +1,24 @@
+{
+    "env": {
+        "node": true,
+        "es6": true,
+        "browser": true
+    },
+    "extends": [
+        "airdnb",
+        "plugin:prettier/recommended"
+    ],
+    "plugins": [
+        "prettier"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 7,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "rules": {
+        "prettier/prettier": "error"
+    }
+}
